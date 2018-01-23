@@ -1,0 +1,1 @@
+start cmd /k "cd/d D:\GitProjects\LoveCode &&git add . &&git commit -m autopush &&git push origin master"
